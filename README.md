@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="320" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
 </div>
 
+<h2 align="center">Hi 👋, I'm Manish Mittal</h2>
+<h3 align="center">Data Analyst | MySQL · Power BI · Excel · Python</h3>
+
+<br/>
+
 <div align="center">
-
-## Hi 👋, I'm Manish Mittal
-
-### Data Analyst | SQL · Power BI · Excel · Python
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-mittal-data-analyst)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manish1422n)
@@ -18,12 +19,12 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate **Data Analyst** with experience in transforming raw data into meaningful insights that drive business decisions. I specialize in building interactive dashboards, writing complex SQL queries, and delivering clean, accurate reports that stakeholders can rely on.
+I'm a passionate **Data Analyst** who turns raw data into clear, actionable insights. I build interactive dashboards, write complex SQL queries, and deliver reports that help businesses make smarter decisions.
 
-- 💼 Previously at **Caplix Technologies** as a Data Analyst
-- 🎓 **B.Voc Software Development** — Ambedkar Institute of Technology, Delhi
-- 📊 Skilled in **KPI tracking**, **ETL pipelines**, **EDA**, and **Business Intelligence**
-- 🌱 Currently expanding skills in **Predictive Analytics** and **Python for Data Science**
+- 💼 Previously at **Caplix Technologies** as a Data Analyst *(Dec 2024 – Apr 2026)*
+- 🎓 **B.Voc Software Development** — Ambedkar Institute of Technology, Delhi *(83.4%)*
+- 📊 Skilled in **KPI Tracking**, **ETL**, **EDA**, **Business Intelligence**
+- 🌱 Currently growing in **Predictive Analytics** & **Python for Data Science**
 - 📬 Reach me at **22manishmittal@gmail.com**
 
 ---
@@ -34,7 +35,7 @@ I'm a passionate **Data Analyst** with experience in transforming raw data into 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -46,14 +47,14 @@ I'm a passionate **Data Analyst** with experience in transforming raw data into 
 
 ## 🚀 GitHub Commits
 
-This section highlights my activity — each commit reflects progress on live data projects.
+This section highlights my daily activity — every commit reflects progress on real data projects.
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manish1422n/manish1422n/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manish1422n/manish1422n/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/manish1422n/manish1422n/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manish1422n/manish1422n/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manish1422n/manish1422n/output/github-snake.svg"/>
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/manish1422n/manish1422n/output/github-snake.svg"/>
 </picture>
 
 </div>
@@ -63,16 +64,17 @@ This section highlights my activity — each commit reflects progress on live da
 ## 📂 Featured Projects
 
 ### 📊 Flipkart Mobile Phone Sales Analysis
-> **MySQL · Power BI · Excel · DAX**
+**MySQL · Power BI · Excel · DAX**
 
-Descriptive analysis of Flipkart mobile phone sales with interactive Power BI dashboards covering brand performance, discounts, ratings, and geography.
+Descriptive analysis of Flipkart mobile phone sales with interactive Power BI dashboards — covering brand performance, discount trends, ratings, and country-wise sales.
 
-| Insight | Result |
+| Insight | Finding |
 |---|---|
 | 🏆 Highest Rated Brand | Apple |
 | 💸 Highest Avg Discount | POCO — 14.5% |
 | 📦 Best Selling Model | iPhone 11 — 36 units |
 | 🌍 Top Sales Country | China — 58.8% |
+| 🎨 Top Sales Colour | Black |
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manish1422n/flipkart_mobile_phone_sales)
 [![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://app.powerbi.com/links/cmXIAwSvRu?ctid=93fa03ea-bf2f-4179-aa6b-8adf04747ba4&pbi_source=linkShare)
@@ -80,24 +82,24 @@ Descriptive analysis of Flipkart mobile phone sales with interactive Power BI da
 ---
 
 ### 📋 PwC Switzerland Power BI Job Simulation
-> **Power BI · DAX · KPI Design · Forage Virtual Internship**
+**Power BI · DAX · KPI Design · Forage Virtual Internship**
 
-Built professional dashboards for PwC's virtual internship covering call centre performance and customer churn analysis.
+Built professional Power BI dashboards for PwC's virtual internship — call centre performance tracking and customer churn analysis.
 
-| Insight | Result |
+| Insight | Finding |
 |---|---|
-| ⭐ Customer Satisfaction | 3.4 / 5 avg rating |
+| ⭐ Avg Customer Satisfaction | 3.4 / 5 |
 | ✅ Calls Resolved | 89.94% |
-| ⚠️ Customers At Risk | 1,870 out of 7,043 |
+| ⚠️ Customers At Risk (Churn) | 1,870 out of 7,043 |
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manish1422n/pwc-powerbi-project)
 
 ---
 
 ### 🌦️ Weather Web App
-> **HTML · CSS · JavaScript**
+**HTML · CSS · JavaScript**
 
-A clean, responsive weather web application built with pure HTML, CSS and JavaScript.
+A clean, responsive weather application built with pure HTML, CSS and JavaScript.
 
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manish1422n/weather-web-app)
 
@@ -105,7 +107,7 @@ A clean, responsive weather web application built with pure HTML, CSS and JavaSc
 
 ## 🏅 Certifications
 
-| 🏆 Certificate | 🏢 Issuer | 🛠️ Skills Gained |
+| 🏆 Certificate | 🏢 Issuer | 🛠️ Skills |
 |---|---|---|
 | PwC Power BI Job Simulation | PwC via Forage | Data Visualisation, KPI Reporting |
 | Fundamentals of Data Analysis in Excel | Microsoft | Data Cleaning, Analysis, Visualisation |
@@ -125,7 +127,6 @@ A clean, responsive weather web application built with pure HTML, CSS and JavaSc
 ---
 
 <div align="center">
-
-*⭐ If you like my work, consider starring my repos — it means a lot!*
-
+  <i>⭐ If you found my work useful, consider starring the repos — it really helps!</i>
 </div>
+
