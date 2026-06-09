@@ -24,7 +24,6 @@ I'm a passionate **Data Analyst** who turns raw data into clear, actionable insi
 - 💼 Previously at **Caplix Technologies** as a Data Analyst *(Dec 2024 – Apr 2026)*
 - 🎓 **B.Voc Software Development** — Ambedkar Institute of Technology, Delhi *(83.4%)*
 - 📊 Skilled in **KPI Tracking**, **ETL**, **EDA**, **Business Intelligence**
-- 🌱 Currently growing in **Predictive Analytics** & **Python for Data Science**
 - 📬 Reach me at **22manishmittal@gmail.com**
 
 ---
@@ -79,13 +78,6 @@ Built professional Power BI dashboards for PwC's virtual internship — call cen
 [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manish1422n/pwc-powerbi-project)
 
 ---
-
-### 🌦️ Weather Web App
-**HTML · CSS · JavaScript**
-
-A clean, responsive weather application built with pure HTML, CSS and JavaScript.
-
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manish1422n/weather-web-app)
 
 ---
 
