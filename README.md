@@ -87,6 +87,7 @@ Built professional Power BI dashboards for PwC's virtual internship — call cen
 |---|---|---|
 | PwC Power BI Job Simulation | PwC via Forage | Data Visualisation, KPI Reporting |
 | Fundamentals of Data Analysis in Excel | Microsoft | Data Cleaning, Analysis, Visualisation |
+| NISM Series 8 — Equity Research Analyst | SEBI / NISM | Equity Research, Business Trend Analysis, Financial Markets |
 
 ---
 
