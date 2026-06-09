@@ -45,22 +45,6 @@ I'm a passionate **Data Analyst** who turns raw data into clear, actionable insi
 
 ---
 
-## 🚀 GitHub Commits
-
-This section highlights my daily activity — every commit reflects progress on real data projects.
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manish1422n/manish1422n/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manish1422n/manish1422n/output/github-snake.svg"/>
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/manish1422n/manish1422n/output/github-snake.svg"/>
-</picture>
-
-</div>
-
----
-
 ## 📂 Featured Projects
 
 ### 📊 Flipkart Mobile Phone Sales Analysis
