@@ -79,7 +79,6 @@ Built professional Power BI dashboards for PwC's virtual internship — call cen
 
 ---
 
----
 
 ## 🏅 Certifications
 
@@ -91,7 +90,6 @@ Built professional Power BI dashboards for PwC's virtual internship — call cen
 
 ---
 
----
 
 <div align="center">
   <i>⭐ If you found my work useful, consider starring the repos — it really helps!</i>
