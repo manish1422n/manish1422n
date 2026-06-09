@@ -24,6 +24,8 @@ I'm a passionate **Data Analyst** who turns raw data into clear, actionable insi
 - 💼 Previously at **Caplix Technologies** as a Data Analyst *(Dec 2024 – Apr 2026)*
 - 🎓 **B.Voc Software Development** — Ambedkar Institute of Technology, Delhi *(83.4%)*
 - 📊 Skilled in **KPI Tracking**, **ETL**, **EDA**, **Business Intelligence**
+- 📈 **SEBI Registered** — NISM Series 8 Equity Research Analyst
+- 🌱 Currently growing in **Predictive Analytics** & **Python for Data Science**
 - 📬 Reach me at **22manishmittal@gmail.com**
 
 ---
@@ -79,7 +81,6 @@ Built professional Power BI dashboards for PwC's virtual internship — call cen
 
 ---
 
-
 ## 🏅 Certifications
 
 | 🏆 Certificate | 🏢 Issuer | 🛠️ Skills |
@@ -90,8 +91,18 @@ Built professional Power BI dashboards for PwC's virtual internship — call cen
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=manish1422n&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish1422n&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
 
 <div align="center">
   <i>⭐ If you found my work useful, consider starring the repos — it really helps!</i>
 </div>
-
