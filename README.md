@@ -98,16 +98,6 @@ A clean, responsive weather application built with pure HTML, CSS and JavaScript
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=manish1422n&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish1422n&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
 ---
 
 <div align="center">
